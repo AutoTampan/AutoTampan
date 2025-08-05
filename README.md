@@ -6,6 +6,7 @@ I’m a final-year Software Engineering student at Telkom University with a GPA 
 - **Languages:** Dart, PHP (Laravel), C++, C, C#, HTML, CSS, JavaScript
 - **Mobile Development:** Flutter
 - **Web Development:** Laravel, MySQL
+- **Game Development:** Unity
 - **Testing:** Katalon, JMeter, Jira
 - **Tools:** Git, Figma, Miro, Notion, ClickUp
 
