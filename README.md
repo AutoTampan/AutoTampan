@@ -31,7 +31,7 @@ I’m a final-year Software Engineering student at Telkom University with a GPA 
 - 🧩 Unity Essentials Pathway – *Unity Technologies* (2025)
 - 🇬🇧 English Proficiency – *Equivalent to TOEFL 527* (2022)
 - 🇯🇵 Japanese Language – *JLPT N5 Equivalent* (2022)
-- 🇨🇳 Mandarin – *HSK 3 Equivalent* (2022)
+- 🇨🇳 Mandarin – *HSK 2 Equivalent* (2022)
 
 ---
 
